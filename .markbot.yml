@@ -1,0 +1,48 @@
+repo: 'animal-rescue-website'
+canvasCourse: 'web-dev-3'
+
+allFiles:
+  html:
+    unique:
+      - 'h1'
+
+inherit:
+  - naming-restrict-live
+  - git-10
+  - html
+  - html-good-semantics
+  - css
+  - css-order-modules-grid-type-main
+  - modulifier-unrestricted
+  - modulifier-buttons
+  - modulifier-list-group
+  - modulifier-embed
+  - gridifier-unrestricted
+  - typografier-unrestricted
+  - accessibility
+  - aria-landmarks
+  - forms
+  - nav-hover
+  - nav-focus
+  - main-link-focus
+  - favicons
+
+html:
+  - path: 'index.html'
+  - path: 'rescues.html'
+  - path: 'adopt.html'
+
+css:
+  - path: 'css/main.css'
+
+performance:
+  - path: 'index.html'
+  - path: 'available-rescues.html'
+  - path: 'adopt-a-rescue.html'
+
+files:
+  - directory: 'images'
+    smushed: true
+    maxHeight: 2500
+    maxWidth: 2500
+    maxSize: 250
