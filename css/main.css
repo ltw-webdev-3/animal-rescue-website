@@ -5,3 +5,18 @@ html {
 h1, h2 {
   font-family: Montserrat, sans-serif;
 }
+
+
+nav {
+  color: #E2D8CD;
+  background-color: #271A02;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #E2D8CD;
+}
+
+.banner {
+  background-color: #E2D8CD;
+}
