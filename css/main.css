@@ -7,7 +7,7 @@ h1, h2 {
 }
 
 
-nav {
+nav, footer {
   color: #E2D8CD;
   background-color: #271A02;
 }
@@ -17,6 +17,21 @@ nav ul li a {
   color: #E2D8CD;
 }
 
-.banner {
+.banner, .cats {
   background-color: #E2D8CD;
+}
+
+.steps {
+  color: #271A02;
+  border-radius: 3px;
+  transition: all .1s linear;
+}
+
+.steps:focus, .steps:hover {
+  background-color: #896D50;
+}
+
+.facebook {
+  color: #fff;
+  background-color: #4267b2;
 }
