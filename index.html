@@ -13,10 +13,15 @@
 
 <body>
 
-  <header>
-    <nav>
-      <h1>KAWS</h1>
-      <ul>
+  <ul class="skip-links">
+    <li><a href="#main">Jump to main content</a></li>
+    <li><a href="#nav">Jump to navigation</a></li>
+  </ul>
+
+  <header role="banner">
+    <nav role="navigation" id="nav" tabindex="0">
+      <ul class="list-group-inline">
+        <li><h1>KAWS</h1></a>
         <li><a class="current" href="index.html">Home</a></li>
         <li><a href="rescues.html">Rescues</a></li>
         <li><a href="adopt.html">Adopt</a></li>
@@ -31,12 +36,12 @@
 
   </header>
 
-  <main>
+  <main role="main" id="main" tabindex="0">
 
     <section class="about">
       <div>
         <h2>About us.</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan sollicitudin congue. Mauris convallis lorem vel mollis imperdiet. Praesent ullamcorper.</p>
+        <p>Founded in 2010, KAWS is a registered charity and organization dedicated to finding forever homes for unwanted, stray, abused and neglected animals in the Kindersley area in Saskatchewan. All animals taken into our care are vaccinated, dewormed, neutered/spayed and then placed in appropriate foster home until a permanent one is found.</p>
       </div>
     </section>
 
@@ -85,7 +90,7 @@
 
     <section class="facebook">
       <div>
-        <img></img>
+        <img src="#" alt="">
       </div>
       <div>
         <h2>Facebook.</h2>
