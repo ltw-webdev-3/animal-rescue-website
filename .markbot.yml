@@ -37,8 +37,8 @@ css:
 
 performance:
   - path: 'index.html'
-  - path: 'available-rescues.html'
-  - path: 'adopt-a-rescue.html'
+  - path: 'rescues.html'
+  - path: 'adopt.html'
 
 files:
   - directory: 'images'
