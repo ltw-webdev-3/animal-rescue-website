@@ -17,7 +17,7 @@ deliverables: '3 HTML files, 4 CSS files, images'
 - *It should have real text content*—**that you have written yourself.**
 - It should be completely designed, with real images, real colours—and it should look amazing.
 - **Don’t steal images**—[use properly licensed images](https://cg.algonquindesign.ca/topics/stock.html). If the image requires that you credit the author use a [`humans.txt`](https://learn-the-web.algonquindesign.ca/topics/search-engine-optimization/#humanstxt) file. ([See an example `humans.txt` file](https://github.com/acgd-webdev-3/modularity-mindfulness/blob/gh-pages/humans.txt)).
-- Don’t start writing code without first doing everything Jed would expect you to do: target audience analysis, website goals, competitive analysis, sitemap, wireframes, etc.
+- Don’t start writing code without first doing everything as expected in your IxD class: target audience analysis, website goals, competitive analysis, sitemap, wireframes, etc.
 - *The website should obviously be fully responsive: working on screensizes from `320px` all the way to `~2500px`.*
 - *Run it through Markbot and make sure it passes all the checks.*
 
