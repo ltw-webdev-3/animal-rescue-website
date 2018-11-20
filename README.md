@@ -157,4 +157,4 @@ Below is the rubric of expectations for this project. **You will be assigned a l
 
 Drop this folder into your Markbot application. Make sure to fix all the errors. And submit for grades using Markbot.
 
-**When you submit, Markbot will give you `1` or `F`—that’s just so you know that it was handed in.** You’ll still have to write a *Request for Grade* and the teacher will still be grading it personally.
+**When you submit to Progressinator, you’ll see a grey checkmark that shows the project was handed in.** You’ll still have to write a *Request for Grade* and the teacher will still be grading it personally.
