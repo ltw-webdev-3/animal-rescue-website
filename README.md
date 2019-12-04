@@ -10,13 +10,16 @@ deliverables: '3 HTML files, 4 CSS files, images'
 
 - *Fork this repository.*
 - Completely re-design an animal rescue website that you find online that’s not currently designed very well.
-  <br>Here are some examples of local rescues whose websites could use an update:
+  <br>Here are some examples of rescues whose websites could use an update:
   - [Birch Haven](http://www.birchhaven.org/)
   - [Loyal Rescue](http://www.loyalrescue.com/)
+  - [Freedom Dog Rescue](http://www.freedomdogrescue.ca/)
+  - [BARK Ottawa](http://www.bark-ottawa.com/)
+  - [Adirondack Save Stray](https://www.adirondacksaveastray.org/)
 - Create a 3-page website: Home, List of Available Rescues & Adopt a Rescue
 - *It should have real text content*—**that you have written yourself.**
 - It should be completely designed, with real images, real colours—and it should look amazing.
-- **Don’t steal images**—[use properly licensed images](https://cg.algonquindesign.ca/topics/stock.html). If the image requires that you credit the author use a [`humans.txt`](https://learn-the-web.algonquindesign.ca/topics/search-engine-optimization/#humanstxt) file. ([See an example `humans.txt` file](https://github.com/acgd-webdev-3/modularity-mindfulness/blob/gh-pages/humans.txt)).
+- **Don’t steal images**—[use properly licensed images](https://cg.algonquindesign.ca/administration/stock.html). If the image requires that you credit the author use a [`humans.txt`](https://learn-the-web.algonquindesign.ca/topics/search-engine-optimization/#humanstxt) file. ([See an example `humans.txt` file](https://github.com/acgd-webdev-3/modularity-mindfulness/blob/gh-pages/humans.txt)).
 - Don’t start writing code without first doing everything as expected in your IxD class: target audience analysis, website goals, competitive analysis, sitemap, wireframes, etc.
 - *The website should obviously be fully responsive: working on screensizes from `320px` all the way to `~2500px`.*
 - *Run it through Markbot and make sure it passes all the checks.*
