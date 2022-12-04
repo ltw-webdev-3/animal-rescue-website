@@ -39,7 +39,7 @@ The homepage of the rescue website should accomplish the goals for the target au
 - Consider your performance budget.
 - Consider accessibility concerns.
 
-### `rescues.html` — List of Available Rescues
+### `rescues.html` — List of Available Rescues
 
 The Rescues page is the page that lists all the available animals, giving details about each animal and photos of what they look like.
 
@@ -48,7 +48,7 @@ The Rescues page is the page that lists all the available animals, giving detail
 - Consider your performance budget.
 - Consider accessibility concerns.
 
-### `adopt.html` — Adopt a Rescue
+### `adopt.html` — Adopt a Rescue
 
 The Adopt page is the _huge_ form that users fill out to adopt a rescue animal. Look at some examples like [Loyal Rescue](http://loyalrescue.com/application.php).
 
@@ -64,15 +64,15 @@ The Adopt page is the _huge_ form that users fill out to adopt a rescue animal. 
 There are a few different things that will be checked throughout the process:
 
 1. [Animal rescue website UX](https://learntheweb.courses/courses/web-dev-3/week-13/#animal-rescue-website-ux)
-   <br>— **Due week 13**
+   <br>— **Due week 13**
    <br>(checked for completion, graded with final website)
 2. [Animal rescue website check-in](https://learntheweb.courses/courses/web-dev-3/week-14/#animal-rescue-website-check-in)
-   <br>— **Due week 14**
+   <br>— **Due week 14**
    <br>(checked for completion)
 3. [Request for grade](https://learntheweb.courses/courses/web-dev-3/week-15/#request-for-grade)
    <br>— **Due week 15**
 4. [Final animal rescue website redesign](https://learntheweb.courses/courses/web-dev-3/week-15/#animal-rescue-website)
-   <br>— **Due week 15**
+   <br>— **Due week 15**
 
 ---
 
